@@ -1,0 +1,9 @@
+{
+	"name": "donnees2",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18fca748-f3aa-41c9-a5ee-b6eb2e53b449",
+		"tenantId": "79f57751-39a2-4499-8020-fc28a7de80c1"
+	}
+}
